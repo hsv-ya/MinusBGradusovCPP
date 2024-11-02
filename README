@@ -1,0 +1,6 @@
+
+Example for 'minusBGradusov 360 in.cnc out.cnc':
+	input  'N0010 G1 B360.' // in.cnc
+	input  'N0050 G1 B720. F750' // in.cnc
+	result 'G1 B0.' // out.cnc
+	result 'G1 B360. F750' // out.cnc
